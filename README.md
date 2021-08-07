@@ -1,6 +1,6 @@
 # neogPortfolio
 ## Made a portfolio to showcase my work and projects.
-## Hosted link - 
+## Hosted link - https://pavankulkarni.netlify.app/
 
 ## Tech Stack used - 
 - HTML
