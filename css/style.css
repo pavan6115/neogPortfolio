@@ -140,12 +140,15 @@ h3 {
 }
 
 /* technologies */
-@media screen (max-width: 768px){
+@media (max-width: 468px){
   .tech-para {
     margin: 0rem 7rem;
   }
 }
 
+.tech-para {
+  margin: 0rem 7rem;
+}
 
 .tech-stack {
   display: flex;
