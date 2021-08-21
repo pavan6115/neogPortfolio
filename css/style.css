@@ -193,6 +193,10 @@ h3 {
   border-top-right-radius: 1rem;
 }
 
+.fspace {
+  margin-top: 3rem;
+}
+
 .footer a {
   color: white;
 }
